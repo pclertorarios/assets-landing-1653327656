@@ -701,3 +701,18 @@ html {
   height: 95px;
   width: 19px;
 }
+
+.button
+{
+  align-content: start;
+  color: rgb(242, 153, 74);
+  font-family: Rubik;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  line-height: 20px;
+  margin-left: 39px;
+  margin-top: 15px;
+  text-transform: uppercase;
+  width: 81px;
+}
